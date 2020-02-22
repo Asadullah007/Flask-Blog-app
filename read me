@@ -1,0 +1,3 @@
+src="         {{url_for('static', filename='         js/clean-blog.min.js              ') }}      "
+
+https://palletsprojects.com/p/jinja/
